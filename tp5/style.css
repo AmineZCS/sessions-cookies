@@ -1,0 +1,83 @@
+body {font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    width: 100vw;
+    margin: 0;
+    background-color: #05251a;}
+    .clearCookiesForm{
+        margin: auto;
+        width: 80vw;
+        border-radius: 10px;
+    }
+    .clearCookiesForm button {
+        border-radius: 10px;
+        width: 80vw;
+        background-color: rgb(255, 74, 74);
+  color: white;
+  padding: 14px 20px;
+  border: none;
+  cursor: pointer;
+  width: 80vw;
+  font-size: medium;
+  font-weight: bold;
+    }
+    input[type=text], input[type=password] {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+    small{
+        color: green;
+        background-color: rgb(152, 255, 152);
+    }
+    .submit {
+      background-color: #04AA6D;
+      color: white;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border: none;
+      cursor: pointer;
+      width: 100%;
+      font-size: medium;
+      font-weight: bold;
+      border-radius: 10px;
+    }
+    
+    .countform{
+        margin: auto;
+        margin-top: 20px;
+
+        width: fit-content
+    }
+    button:hover {
+      opacity: 0.8;
+    }
+    
+    .container {
+      padding: 16px;
+      
+    }
+    .articles{
+        width: 100vw;
+        
+    }
+    .article{
+        border: 3px solid #f1f1f1;
+        width: 80vw;
+        margin: 25px auto;
+        padding: 16px;
+        box-sizing: border-box;
+        color: white;
+        border-radius: 10px;
+    }
+    label{
+        color: white;
+    }
+    span.psw {
+      float: right;
+      padding-top: 16px;
+      
+    }
+    
